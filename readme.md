@@ -2,9 +2,9 @@
 1. 글자입력
 2. 이미지 입력
 3. 주소링크
-[google] (https://www.google.com/)
+[google](https://www.google.com/)
 
-![rose](./rose.jpg)
+![rose](./image/rose.jpg)
 
 제목1
 =============
